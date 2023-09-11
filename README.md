@@ -1,6 +1,6 @@
-# FLPCG-pira
+# FLPG-pira
 
-### a pira clone for freelinuxpcgame.com
+### a pira clone for freelinuxpcgames.com
 
 ##  Dependencies
 
