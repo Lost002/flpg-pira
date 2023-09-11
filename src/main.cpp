@@ -1,7 +1,6 @@
 #include <iostream>
 #include <fstream>
 
-
 bool hascurl;
 
 void checkcurl() {
