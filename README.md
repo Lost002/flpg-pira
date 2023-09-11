@@ -7,7 +7,7 @@
 - Curl (bash/fsh/zsh)
 
 ## Making
-
+! Will compile to repositories root directory with name 'main' !
 1. Bash
     - ```cd flpg-pira (or cd CLONED REPOSITORY PATH)```
     - ```./PATH-TO-make.sh```
