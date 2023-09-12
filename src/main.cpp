@@ -23,16 +23,21 @@ void checkcurl() {
 }
 
 void request(std::string domain) { //Domain should be freelinuxpcgames.com
-    std::string convert = "curl " + domain + " -o data";
+    std::string convert = "curl " + domain + " -o data > /dev/null";
     const char * command = convert.c_str();
     std::system(command);
+    std::cout << "\n";
 }
 
 void findgames() {
     std::string line;
     std::ifstream file("data");
+    int count = 0;
     while (getline(file, line)) {
-        std::cout << line;
+        if (line.find("nv-post-thumbnail-wrap img-wrap") != std::string::npos) {
+            lines[count] = line;
+            count++;
+        }
     }
 }
 
