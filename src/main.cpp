@@ -2,6 +2,7 @@
 #include <fstream>
 
 bool hascurl;
+std::string lines[];
 
 void checkcurl() {
     std::string stdout;
@@ -27,11 +28,18 @@ void request(std::string domain) { //Domain should be freelinuxpcgames.com
     std::system(command);
 }
 
+void findgames() {
+    std::string line;
+    std::ifstream file("data");
+    while (getline(file, line)) {
+        ;
+    }
+}
 
 int main() {
     checkcurl();
     if (hascurl) {
-        request("http://example.com");
+        request("https://freelinuxpcgames.com");
     }
     return 0;
 }
