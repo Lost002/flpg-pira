@@ -2,7 +2,7 @@
 #include <fstream>
 
 bool hascurl;
-std::string lines[];
+std::string lines[0];
 
 void checkcurl() {
     std::string stdout;
@@ -32,7 +32,7 @@ void findgames() {
     std::string line;
     std::ifstream file("data");
     while (getline(file, line)) {
-        ;
+        std::cout << line;
     }
 }
 
@@ -41,5 +41,6 @@ int main() {
     if (hascurl) {
         request("https://freelinuxpcgames.com");
     }
+    findgames();
     return 0;
 }
