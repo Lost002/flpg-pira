@@ -11,5 +11,5 @@ if command -v g++ > /dev/null; then
         echo "none"
     fi
     g++ src/main.cpp -o main
-    touch data
+    touch data.txt links.txt .stdout
 fi

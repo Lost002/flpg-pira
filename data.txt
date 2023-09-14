@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+
+<title>Free Linux PC Games &raquo; Page 50 of 50 &raquo; Full Native Linux Game Downloads</title><link rel="preload" href="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/cropped-Linux_Logo.png?fit=163%2C180&amp;ssl=1" as="image" /><link rel="preload" href="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/Trine-Enchanted-Edition.jpg?resize=678%2C381&amp;ssl=1" as="image" /><style id="perfmatters-used-css">.btn,.button,.wp-block-button__link,button,input[type=button],input[type=reset],input[type=submit]{cursor:pointer;box-sizing:border-box;border-color:currentColor;text-align:center;font-family:var(--bodyfontfamily),var(--nv-fallback-ff);}.btn,.button.button-primary,.is-style-primary .wp-block-button__link,.wp-block-search .wp-block-search__button,button,input[type=button],input[type=reset],input[type=submit]{cursor:pointer;box-sizing:border-box;background:var(--primarybtnbg);color:var(--primarybtncolor);border-style:solid;border-color:currentColor;fill:currentColor;border-width:var(--primarybtnborderwidth,0);border-radius:var(--primarybtnborderradius,3px);padding:var(--primarybtnpadding,13px 15px);font-weight:var(--btnfontweight,700);font-size:var(--btnfs,var(--bodyfontsize));line-height:var(--btnlineheight,1.6);letter-spacing:var(--btnletterspacing,var(--bodyletterspacing));text-transform:var(--btntexttransform,none);}.btn:hover,.button.button-primary:hover,.is-style-primary .wp-block-button__link:hover,button:hover,input[type=button]:hover,input[type=reset]:hover,input[type=submit]:hover{background:var(--primarybtnhoverbg);color:var(--primarybtnhovercolor);border-color:var(--primarybtnhovercolor);}.widget select,.wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper,form input:read-write,form select,form select option,form textarea,form.wp-block-search input.wp-block-search__input{border-style:solid;border-color:var(--formfieldbordercolor);border-width:var(--formfieldborderwidth);border-radius:var(--formfieldborderradius,3px);background:var(--formfieldbgcolor);color:var(--formfieldcolor);padding:var(--formfieldpadding);text-transform:var(--formfieldtexttransform);font-weight:var(--formfieldfontweight);font-family:var(--bodyfontfamily);font-size:var(--formfieldfontsize);letter-spacing:var(--formfieldletterspacing);line-height:var(--formfieldlineheight);}.wpforms-container .wpforms-field-label,form label{font-weight:var(--formlabelfontweight,var(--bodyfontweight));text-transform:var(--formlabeltexttransform);letter-spacing:var(--formlabelletterspacing);line-height:var(--formlabellineheight);font-size:var(--formlabelfontsize,var(--bodyfontsize));}.entry-summary,.nv-meta-list li{font-weight:var(--fontweight);text-transform:var(--texttransform);letter-spacing:var(--letterspacing);line-height:var(--lineheight);font-size:var(--fontsize);}.blog-entry-title{font-size:var(--fontsize,var(--h3fontsize));font-weight:var(--fontweight,var(--h3fontweight));line-height:var(--lineheight,var(--h3lineheight));letter-spacing:var(--letterspacing,var(--h3letterspacing));text-transform:var(--texttransform,var(--h3texttransform));}.nv-html-content p,blockquote,body,dd,dl,dt,fieldset,figure,h1,h2,h3,h4,h5,h6,hr,html,iframe,legend,li,ol,p,pre,textarea,ul{margin:0;padding:0;}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:400;}ul{list-style:none;}button,input,select,textarea{margin:0;}html{box-sizing:border-box;-ms-overflow-style:scrollbar;}*,::after,::before{box-sizing:border-box;}audio,embed,img,object,video{height:auto;max-width:100%;}.container{width:100%;padding-right:15px;padding-left:15px;margin:0 auto;max-width:var(--container);}.w-100{width:100%;}.row{display:flex;flex-wrap:wrap;margin:0 -15px;}.col{padding:0 15px;margin:0 auto;flex-grow:1;max-width:100%;}html{font-size:100%;}body{background-color:var(--nv-site-bg);color:var(--nv-text-color);font-size:var(--bodyfontsize);line-height:var(--bodylineheight);letter-spacing:var(--bodyletterspacing);font-family:var(--bodyfontfamily),var(--nv-fallback-ff);text-transform:var(--bodytexttransform);font-weight:var(--bodyfontweight);overflow-x:hidden;direction:ltr;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}h1,h2,h3,h4,h5,h6{margin-bottom:30px;font-family:var(--headingsfontfamily),var(--nv-fallback-ff);}p{margin-bottom:30px;}a{--linkdeco:none;color:var(--nv-primary-accent);cursor:pointer;text-decoration:var(--linkdeco);}a:focus,a:hover{opacity:.9;color:var(--nv-secondary-accent);}.entry-content a:not([class]),.nv-comment-content a:not([class]),.nv-template .neve-main a:not([class]),.widget_text a:not([class]){--linkdeco:underline;}h2{font-size:var(--h2fontsize);font-weight:var(--h2fontweight);line-height:var(--h2lineheight);letter-spacing:var(--h2letterspacing);text-transform:var(--h2texttransform);}ol,ul{padding-left:var(--listpad,0);}ul{list-style:var(--liststyle,none);}.show-on-focus{position:absolute;width:1px;height:1px;clip:rect(1px,1px,1px,1px);top:32px;background:var(--nv-site-bg);padding:10px 15px;}.show-on-focus:focus{z-index:999999;width:auto;height:auto;clip:auto;}.screen-reader-text{position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden;}.nv-icon{fill:currentColor;}.nv-search{display:flex;}.site-logo{align-items:center;display:flex;}.site-logo img{max-width:var(--maxwidth);display:block;margin:0 auto;}.site-logo img[src$=".svg"]{width:var(--maxwidth);}.site-logo .title-with-logo{display:flex;flex-direction:row;align-items:center;}.site-logo .title-with-logo>:first-child{margin-right:10px;}.site-logo h1,.site-logo p{font-size:24px;font-weight:var(--h1fontweight);line-height:var(--bodylineheight);letter-spacing:var(--bodyletterspacing);text-transform:var(--texttransform,var(--bodytexttransform));margin:0;}.site-logo small{display:block;}.header-menu-sidebar .nav-ul .sub-menu,.nav-ul li:hover>.sub-menu,.sub-menu.dropdown-open{opacity:1;visibility:visible;}.caret{transition:.3s ease;}.dd-title{flex-grow:var(--flexg);display:flex;align-items:center;}.nav-ul{display:flex;flex-wrap:wrap;margin-right:calc(var(--spacing) / 2 * -1);margin-left:calc(var(--spacing) / 2 * -1);}.nav-ul li>.wrap{display:flex;align-items:center;}.nav-ul li a{min-height:var(--height);color:var(--color);position:relative;width:100%;display:flex;align-items:center;}.nav-ul li:hover>.wrap>.caret,.nav-ul li:hover>.wrap>a{color:var(--hovercolor);}.nav-ul>li{margin:0 calc(var(--spacing) / 2);}.nav-ul li{display:block;position:relative;}.nav-ul li.current-menu-item>.wrap>a:not([href*="#"]){color:var(--activecolor);}.nav-ul li .caret{line-height:0;justify-content:center;display:flex;}.nav-ul li .caret svg{fill:currentColor;width:.5em;height:.5em;}.nav-ul .sub-menu{background:var(--bgcolor,var(--overlaycolor));z-index:100;position:absolute;top:100%;box-shadow:rgba(149,157,165,.2) 0 8px 24px;visibility:hidden;opacity:0;right:0;}.nav-ul .sub-menu li{min-width:150px;width:100%;}.nav-ul .sub-menu li>.wrap{padding:10px 20px;white-space:nowrap;display:flex;}.nav-ul .sub-menu .sub-menu{left:100%;top:0;right:unset;}.header-menu-sidebar .nv-nav-wrap{width:100%;}.header-menu-sidebar .nav-ul{flex-direction:column;width:100%;}.header-menu-sidebar .nav-ul li{width:100%;}.header-menu-sidebar .nav-ul li:not([class*=block])>.wrap>a{padding:15px 0;white-space:unset;}.header-menu-sidebar .nav-ul .caret svg{width:1em;height:1em;}.header-menu-sidebar .nav-ul .caret-wrap{margin:-15px 0;padding:15px;}.header-menu-sidebar .nav-ul .sub-menu{left:unset !important;top:unset !important;right:unset !important;background:0;position:relative;max-width:100%;box-shadow:none;display:none;}.nv-nav-search{transition:opacity .3s;position:absolute;visibility:hidden;opacity:0;right:0;width:auto;padding:10px;cursor:unset;z-index:100;background-color:var(--nv-site-bg);box-shadow:rgba(149,157,165,.2) 0 8px 24px;display:flex;align-items:center;}.nv-nav-search .container{padding:0;}.menu-item-nav-search.active .nv-nav-search{opacity:1;visibility:visible;}.menu-item-nav-search{cursor:pointer;outline:0;}.menu-item-nav-search .nv-icon:hover{color:var(--hovercolor);}.menu-item-nav-search svg{width:var(--iconsize);height:var(--iconsize);}.menu-item-nav-search.canvas .nv-nav-search{position:fixed;top:0;bottom:0;width:100%;display:flex;justify-content:center;align-items:center;}.menu-item-nav-search.canvas .nv-nav-search .close-container{position:absolute;top:30px;text-align:right;}.close-responsive-search{background:0;border:0;--primarybtnhoverbg:0;}.close-responsive-search>svg{fill:var(--nv-text-color);width:var(--formfieldfontsize);min-width:25px;min-height:25px;}.m-style>ul>li>.wrap:hover::after,.sm-style .sub-menu .wrap:hover::after{width:100%;}.m-style>ul>li>.wrap::after,.sm-style .sub-menu .wrap::after{position:absolute;content:"";margin:0 auto;width:0;height:2px;transition:all .3s ease;right:0;left:0;pointer-events:none;background-color:var(--hovercolor,currentColor);}.sm-style-full-height .sub-menu .wrap,.style-full-height>ul>li>.wrap{z-index:1;}.sm-style-full-height .sub-menu .wrap::after,.style-full-height>ul>li>.wrap::after{top:0;bottom:0;left:calc(var(--spacing) / 2 * -1);right:calc(var(--spacing) / 2 * -1);height:100%;z-index:-1;}.sm-style-full-height .sub-menu .wrap:hover>a,.style-full-height>ul>li>.wrap:hover>a{color:currentColor;}.sm-style-full-height .sub-menu .wrap:hover>a,.sm-style-full-height .sub-menu .wrap:hover>a i,.sm-style-full-height .sub-menu .wrap:hover>a span,.sm-style-full-height .sub-menu .wrap:hover>a+.caret-wrap,.style-full-height>ul>li>.wrap:hover>a,.style-full-height>ul>li>.wrap:hover>a i,.style-full-height>ul>li>.wrap:hover>a span,.style-full-height>ul>li>.wrap:hover>a+.caret-wrap{color:var(--hovertextcolor,var(--color)) !important;}.sm-style-full-height .sub-menu .wrap:hover>a::after,.style-full-height>ul>li>.wrap:hover>a::after{width:calc(100% + var(--spacing));}.sm-style-full-height .sub-menu a,.style-full-height>ul>li>a{z-index:1;}.sm-style-full-height .sub-menu a::after,.style-full-height>ul>li>a::after{top:0;bottom:0;left:calc(var(--spacing) / 2 * -1);right:calc(var(--spacing) / 2 * -1);height:100%;z-index:-1;}.navbar-toggle-wrapper{align-items:center;}.navbar-toggle{--primarybtncolor:var(--color);--primarybtnhovercolor:var(--color);--primarybtnbg:var(--bgcolor,transparent);--primarybtnhoverbg:var(--bgcolor,transparent);--primarybtnborderwidth:var(--borderwidth,1px);--primarybtnborderradius:var(--borderradius,0);padding:var(--padding,10px 15px);box-shadow:none;display:flex;align-items:center;}.navbar-toggle:focus{outline:1px solid;}.icon-bar{background-color:currentColor;transition:all .1s ease;position:relative;display:block;width:15px;height:2px;}.icon-bar:nth-child(2){margin:3px 0;}.wrapper{display:flex;min-height:100vh;flex-direction:column;position:relative;transition:all .3s cubic-bezier(.79,.14,.15,.86);}body>.wrapper:not(.et-fb-iframe-ancestor){overflow:hidden;}.neve-main{flex:1 auto;}input[type=color],input[type=date],input[type=datetime-local],input[type=datetime],input[type=email],input[type=month],input[type=number],input[type=password],input[type=reset],input[type=search],input[type=submit],input[type=tel],input[type=text],input[type=time],input[type=url],input[type=week],select,textarea{display:inline-block;-webkit-appearance:none;-moz-appearance:none;appearance:none;outline:0;resize:vertical;}[tabindex="-1"]:focus,input:read-write:focus,select:focus,textarea:focus{outline:0;box-shadow:0 0 3px 0 var(--nv-secondary-accent);--formfieldbordercolor:var(--nv-secondary-accent);}button,input,select,textarea{line-height:inherit;box-sizing:border-box;}::placeholder{color:inherit;opacity:.5;}label{display:inline-block;}.widget-search{width:100%;margin:0 !important;}.search-form{display:flex;max-width:100%;line-height:1;--primarybtnbg:var(--formfieldbgcolor);--primarybtnhoverbg:var(--formfieldbgcolor);--primarybtncolor:var(--formfieldbordercolor);--primarybtnhovercolor:var(--formfieldbordercolor);}.search-form svg{fill:var(--formfieldcolor);width:var(--formfieldfontsize);opacity:.5;height:auto;}.search-form .search-submit{display:flex;justify-content:center;align-items:center;min-width:45px;z-index:1;--primarybtnborderwidth:var(--formfieldborderwidth);--primarybtnborderradius:var(--formfieldborderradius);--primarybtnpadding:var(--formfieldpadding);border-bottom-left-radius:0;border-top-left-radius:0;border-left:0;border-color:var(--formfieldbordercolor);position:relative;height:var(--height);overflow:hidden;white-space:nowrap;}.search-form .search-submit::before{content:"";display:block;width:3px;height:100%;background-color:var(--formfieldbgcolor);left:-3px;top:0;bottom:0;position:absolute;}.search-form .search-field{overflow:hidden;text-overflow:ellipsis;height:var(--height);border-right:0;flex-grow:1;border-top-right-radius:0;border-bottom-right-radius:0;width:calc(100% - 45px);max-width:100%;}.search-form .search-field:focus~button{box-shadow:0 0 3px 0 var(--nv-secondary-accent);border-color:var(--nv-secondary-accent);}.nv-meta-list{margin-bottom:20px;font-size:.9em;}.nv-meta-list li,.nv-meta-list span{display:inline-block;}.nv-meta-list li:not(:last-child)::after,.nv-meta-list span:not(:last-child)::after{content:"/";padding:0 8px;}.entry-title{word-wrap:break-word;}.entry-title a{color:var(--nv-text-color);}.nv-index-posts{margin-top:60px;}.nv-post-thumbnail-wrap img:not(.photo),.nv-post-thumbnail-wrap>a{display:block;}.nv-post-thumbnail-wrap img{box-shadow:var(--boxshadow,none);}.posts-wrapper>article{width:var(--postwidth);}.blog-entry-title{margin-bottom:10px;word-wrap:break-word;}.article-content-col{width:100%;}.article-content-col .content{width:100%;border-bottom:0 solid;display:flex;flex-direction:column;}.posts-wrapper{display:flex;flex-wrap:wrap;margin-bottom:40px;}.layout-grid .content>.blog-entry-title{margin-bottom:10px;}.layout-grid .content>*{margin-bottom:20px;}.layout-grid .content>:last-child{margin-bottom:0;}article{word-break:break-word;}body:not(.nv-blog-default) .posts-wrapper{margin-left:calc(-1 * var(--gridspacing,30px) / 2);margin-right:calc(-1 * var(--gridspacing,30px) / 2);}body:not(.nv-blog-default) .posts-wrapper article{margin-bottom:calc(var(--gridspacing,30px));padding:0 calc(var(--gridspacing,30px) / 2);}@keyframes spin{100%{-webkit-transform:rotate(360deg);transform:rotate(360deg);}}.layout-grid,body .layout-grid>.article-content-col{display:flex;}ul.page-numbers{display:flex;flex-wrap:wrap;}ul.page-numbers li{margin-bottom:15px;}ul.page-numbers input[type=submit]{all:unset;cursor:pointer;}ul.page-numbers form{display:flex;}ul.page-numbers a,ul.page-numbers input[type=submit],ul.page-numbers span{line-height:1;margin-right:20px;background:var(--nv-light-bg);border-radius:3px;padding:12px 15px;color:var(--nv-text-color);display:block;}ul.page-numbers .dots{background:0;}ul.page-numbers .current{background:var(--nv-primary-accent);color:var(--nv-text-dark-bg);}.wp-caption{max-width:100%;}.nv-index-posts,.nv-single-post-wrap{margin-bottom:60px;}.widget{word-break:break-word;margin-bottom:40px;}.widget:last-child{margin:0;}.widget ul{padding:0;}.widget ul ul{padding-left:10px;}.widget li{margin-top:10px;}.hfg-is-group{display:flex;align-items:center;}.builder-item--footer-menu,.component-wrap,.item--inner,.menu-item-nav-search,.nav-ul .wrap a .dd-title,.nav-ul a,.palette-icon-wrapper,.site-logo,footer .nav-ul{justify-content:var(--justify,flex-start);text-align:var(--textalign,left);}@media (min-width:960px){.neve-main>.container .col{max-width:70%;}.neve-main>.container>.row{flex-wrap:nowrap;}}.header-menu-sidebar{padding:0;position:fixed;max-width:100%;top:0;z-index:999900;visibility:hidden;display:flex;height:100vh;}.header-menu-sidebar .navbar-toggle-wrapper{display:flex;justify-content:flex-end;padding:8px 10px;}.header-menu-sidebar .navbar-toggle-wrapper button.navbar-toggle{position:relative;}.tcb{transition:all .3s cubic-bezier(.79,.14,.15,.86);}.header-menu-sidebar-bg{background-color:var(--bgcolor);color:var(--color);position:relative;display:flex;flex-direction:column;word-wrap:break-word;width:100%;}.header-menu-sidebar-inner{padding:20px 0;overflow-x:hidden;height:100%;display:none;opacity:0;transition:opacity .3s ease;}.header-menu-sidebar-inner .item--inner{width:100%;}.menu_sidebar_slide_left .header-menu-sidebar{left:0;transform:translateX(-100%);}.header-menu-sidebar .menu-item-nav-search{display:flex;align-items:center;}.hfg-ov{top:0;bottom:0;right:0;left:0;background:rgba(0,0,0,.5);position:fixed;transform:translate3d(0,0,0);z-index:999899;transition:all .3s linear;visibility:hidden;opacity:0;}.hfg-pe{pointer-events:none;}.site-footer{position:relative;z-index:11;}.site-footer .item--inner{width:100%;}.site-footer .item--inner.has_menu{display:flex;}.site-footer p:last-child{margin-bottom:0;}.footer--row .hfg-slot{display:flex;flex-direction:column;}.footer--row .row{display:grid;align-items:var(--valign);}.footer--row .builder-item{width:100%;}@media (max-width:960px){footer .footer--row-inner .row{grid-template-columns:1fr;}}.site-header{position:relative;}.site-header .header--row-inner{align-items:center;display:flex;}.builder-item{margin:4px 0;position:relative;min-height:1px;padding-right:15px;padding-left:15px;}@media (min-width:960px){.builder-item{margin:8px 0;}}.hfg-slot{display:flex;align-items:center;}.hfg-slot.right{justify-content:flex-end;}.header-menu-sidebar-bg,[class*=row-inner]{position:relative;background-image:var(--bgimage,none);background-position:var(--bgposition,center);background-repeat:no-repeat;background-size:cover;background-attachment:var(--bgattachment);}.header-menu-sidebar-bg::before,[class*=row-inner]::before{display:block;width:100%;top:0;bottom:0;position:absolute;content:"";background-color:var(--overlaycolor);opacity:var(--bgoverlayopacity);}[class*=row-inner]:not(.footer--row-inner){border-bottom:var(--rowbwidth,0) solid var(--rowbcolor);}.footer--row-inner{border-top:var(--rowbwidth,0) solid var(--rowbcolor);}[data-row-id]{color:var(--color);background:var(--bgcolor);}[data-row-id] a{color:var(--color);}[data-row-id] .row{display:grid;grid-template-columns:auto auto;min-height:var(--height,auto);}.hfg_header.site-header{box-shadow:0 -1px 3px rgba(0,0,0,.1);}.header .builder-item .item--inner[class*=button_base],.header .builder-item .item--inner[class*=nav-icon]{padding:0 !important;}.hfg-grid{display:flex;}@media (min-width:960px){.hide-on-desktop{display:none;}}@media (max-width:959px){.hide-on-tablet{display:none;}}@media (max-width:576px){.hide-on-mobile{display:none;}}.component-wrap{display:flex;margin:4px 0;}.builder-item .item--inner{color:var(--color);font-family:var(--fontfamily,var(--bodyfontfamily));font-size:var(--fontsize,var(--bodyfontsize));line-height:var(--lineheight,var(--bodylineheight));letter-spacing:var(--letterspacing,var(--bodyletterspacing));font-weight:var(--fontweight,var(--bodyfontweight));text-transform:var(--texttransform,var(--bodytexttransform));padding:var(--padding,0);margin:var(--margin,0);position:relative;}.builder-item .item--inner.has_menu{position:unset;}</style>
+<meta name="description" content="Free Linux PC Games is the easiest way to download any full native linux games you want with wide collection of different categories and more!" />
+<link rel="canonical" href="https://freelinuxpcgames.com/page/50/" />
+<link rel="prev" href="https://freelinuxpcgames.com/page/49/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Free Linux PC Games" />
+<meta property="og:description" content="Free Linux PC Games is the easiest way to download any full native linux games you want with wide collection of different categories and more!" />
+<meta property="og:url" content="https://freelinuxpcgames.com/" />
+<meta property="og:site_name" content="Free Linux PC Games" />
+<meta name="twitter:card" content="summary_large_image" />
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://freelinuxpcgames.com/","url":"https://freelinuxpcgames.com/page/50/","name":"Free Linux PC Games &raquo; Page 50 of 50 &raquo; Full Native Linux Game Downloads","isPartOf":{"@id":"https://freelinuxpcgames.com/#website"},"about":{"@id":"https://freelinuxpcgames.com/#organization"},"description":"Free Linux PC Games is the easiest way to download any full native linux games you want with wide collection of different categories and more!","breadcrumb":{"@id":"https://freelinuxpcgames.com/page/50/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https://freelinuxpcgames.com/page/50/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://freelinuxpcgames.com/#website","url":"https://freelinuxpcgames.com/","name":"Free Linux PC Games","description":"Full Native Linux Game Downloads","publisher":{"@id":"https://freelinuxpcgames.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://freelinuxpcgames.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://freelinuxpcgames.com/#organization","name":"Freelinuxpcgames","url":"https://freelinuxpcgames.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://freelinuxpcgames.com/#/schema/logo/image/","url":"https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/cropped-Linux_Logo-1.png?fit=512%2C512&ssl=1","contentUrl":"https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/cropped-Linux_Logo-1.png?fit=512%2C512&ssl=1","width":512,"height":512,"caption":"Freelinuxpcgames"},"image":{"@id":"https://freelinuxpcgames.com/#/schema/logo/image/"}}]}</script>
+
+<link rel="dns-prefetch" href="//stats.wp.com" />
+<link rel="dns-prefetch" href="//i0.wp.com" />
+<link rel="dns-prefetch" href="//c0.wp.com" />
+<link rel="stylesheet" id="wp-block-library-css" data-pmdelayedstyle="https://c0.wp.com/c/6.2/wp-includes/css/dist/block-library/style.min.css" type="text/css" media="all" />
+<style id="wp-block-library-inline-css" type="text/css">
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel="stylesheet" id="classic-theme-styles-css" data-pmdelayedstyle="https://c0.wp.com/c/6.2/wp-includes/css/classic-themes.min.css" type="text/css" media="all" />
+<link rel="stylesheet" id="better-recent-comments-css" data-pmdelayedstyle="https://freelinuxpcgames.com/wp-content/plugins/better-recent-comments/assets/css/better-recent-comments.min.css?ver=6.2" type="text/css" media="all" />
+<link rel="stylesheet" id="neve-style-css" data-pmdelayedstyle="https://freelinuxpcgames.com/wp-content/themes/neve/style-main-new.min.css?ver=3.5.8" type="text/css" media="all" />
+<style id="neve-style-inline-css" type="text/css">
+.nv-meta-list li.meta:not(:last-child):after { content:"/" }.nv-meta-list .no-mobile{
+display:none;
+}.nv-meta-list li.last::after{
+content: ""!important;
+}@media (min-width: 769px) {
+.nv-meta-list .no-mobile {
+display: inline-block;
+}
+.nv-meta-list li.last:not(:last-child)::after {
+content: "/" !important;
+}
+}
+:root{ --container: 748px;--postwidth:100%; --primarybtnbg: var(--nv-secondary-accent); --secondarybtnbg: var(--nv-primary-accent); --primarybtnhoverbg: var(--nv-secondary-accent); --secondarybtnhoverbg: var(--nv-primary-accent); --primarybtncolor: var(--nv-text-color); --secondarybtncolor: var(--nv-text-dark-bg); --primarybtnhovercolor: var(--nv-text-color); --secondarybtnhovercolor: var(--nv-text-dark-bg);--primarybtnborderradius:0;--secondarybtnborderradius:0;--btnpadding:16px 35px;--primarybtnpadding:16px 35px;--secondarybtnpadding:16px 35px; --btnfs: 14px; --btnlineheight: 1.6em; --bodyfontfamily: Arial,Helvetica,sans-serif; --bodyfontsize: 15px; --bodylineheight: 1.6em; --bodyletterspacing: 0px; --bodyfontweight: 400; --bodytexttransform: none; --headingsfontfamily: Poppins; --h1fontsize: 36px; --h1fontweight: 600; --h1lineheight: 1.2em; --h1letterspacing: 0px; --h1texttransform: none; --h2fontsize: 28px; --h2fontweight: 600; --h2lineheight: 1.3em; --h2letterspacing: 0px; --h2texttransform: none; --h3fontsize: 24px; --h3fontweight: 600; --h3lineheight: 1.4em; --h3letterspacing: 0px; --h3texttransform: none; --h4fontsize: 20px; --h4fontweight: 600; --h4lineheight: 1.6em; --h4letterspacing: 0px; --h4texttransform: none; --h5fontsize: 16px; --h5fontweight: 600; --h5lineheight: 1.6em; --h5letterspacing: 0px; --h5texttransform: none; --h6fontsize: 14px; --h6fontweight: 600; --h6lineheight: 1.6em; --h6letterspacing: 0px; --h6texttransform: none;--formfieldborderwidth:2px;--formfieldborderradius:3px; --formfieldbgcolor: var(--nv-site-bg); --formfieldbordercolor: #dddddd; --formfieldcolor: var(--nv-text-color);--formfieldpadding:10px 12px; } .single-post-container .alignfull > [class*="__inner-container"], .single-post-container .alignwide > [class*="__inner-container"]{ max-width:718px } .nv-meta-list{ --avatarsize: 20px; } .single .nv-meta-list{ --avatarsize: 20px; } .blog .blog-entry-title, .archive .blog-entry-title{ --fontweight: none; } .blog .entry-summary, .archive .entry-summary, .blog .post-pages-links{ --fontweight: none; } .nv-is-boxed.nv-comments-wrap{ --padding:20px; } .nv-is-boxed.comment-respond{ --padding:20px; } .global-styled{ --bgcolor: var(--nv-site-bg); } .header-top{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-text-color); --bgcolor: #34373c; } .header-main{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-site-bg); --bgcolor: var(--nv-primary-accent); } .header-bottom{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-text-color); --bgcolor: #34373c; } .header-menu-sidebar-bg{ --justify: flex-start; --textalign: left;--flexg: 1;--wrapdropdownwidth: auto; --color: var(--nv-text-color); --bgcolor: var(--nv-primary-accent); } .header-menu-sidebar{ width: 230px; } .builder-item--logo{ --maxwidth: 32px;--padding:10px 0;--margin:0; --textalign: center;--justify: center; } .builder-item--nav-icon,.header-menu-sidebar .close-sidebar-panel .navbar-toggle{ --color: var(--nv-site-bg);--borderradius:3px;--borderwidth:1px; } .builder-item--nav-icon{ --label-margin:0 5px 0 0;;--padding:10px 15px 10px 15px;;--margin:0; } .builder-item--primary-menu{ --color: var(--nv-dark-bg); --hovercolor: rgba(0,0,0,0.49); --hovertextcolor: var(--nv-text-color); --activecolor: var(--nv-dark-bg); --spacing: 20px; --height: 25px;--padding:0;--margin:0; --fontsize: 1em; --lineheight: 1.6em; --letterspacing: 0px; --fontweight: 700; --texttransform: uppercase; --iconsize: 1em; } .hfg-is-group.has-primary-menu .inherit-ff{ --inheritedfw: 700; } .builder-item--header_search{ --height: 45px;--formfieldborderwidth:2px;--formfieldborderradius:2px; --formfieldbgcolor: #444444; --formfieldbordercolor: #dddddd; --formfieldcolor: #dddddd;--padding:0;--margin:0; } .builder-item--header_search_responsive{ --iconsize: 20px; --color: var(--nv-dark-bg); --hovercolor: var(--nv-text-color); --formfieldfontsize: 14px;--formfieldborderwidth:1px;--formfieldborderradius:2px; --formfieldbordercolor: var(--nv-primary-accent); --formfieldcolor: var(--nv-primary-accent); --height: 40px;--padding:0 10px;--margin:0; } .footer-top-inner .row{ grid-template-columns:1fr; --valign: flex-start; } .footer-top{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-primary-accent); --bgcolor: #000000; } .footer-main-inner .row{ grid-template-columns:1fr 1fr 1fr; --valign: flex-start; } .footer-main{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-text-color); --bgcolor: var(--nv-site-bg); } .footer-bottom-inner .row{ grid-template-columns:1fr; --valign: center; } .footer-bottom{ --rowbcolor: var(--nv-light-bg); --color: var(--nv-primary-accent); --bgcolor: #000000; } .builder-item--footer-one-widgets{ --padding:0;--margin:0; --textalign: left;--justify: flex-start; } @media(min-width: 576px){ :root{ --container: 992px;--postwidth:50%;--btnpadding:16px 35px;--primarybtnpadding:16px 35px;--secondarybtnpadding:16px 35px; --btnfs: 14px; --btnlineheight: 1.6em; --bodyfontsize: 16px; --bodylineheight: 1.6em; --bodyletterspacing: 0px; --h1fontsize: 38px; --h1lineheight: 1.2em; --h1letterspacing: 0px; --h2fontsize: 30px; --h2lineheight: 1.2em; --h2letterspacing: 0px; --h3fontsize: 26px; --h3lineheight: 1.4em; --h3letterspacing: 0px; --h4fontsize: 22px; --h4lineheight: 1.5em; --h4letterspacing: 0px; --h5fontsize: 18px; --h5lineheight: 1.6em; --h5letterspacing: 0px; --h6fontsize: 14px; --h6lineheight: 1.6em; --h6letterspacing: 0px; } .single-post-container .alignfull > [class*="__inner-container"], .single-post-container .alignwide > [class*="__inner-container"]{ max-width:962px } .nv-meta-list{ --avatarsize: 20px; } .single .nv-meta-list{ --avatarsize: 20px; } .nv-is-boxed.nv-comments-wrap{ --padding:30px; } .nv-is-boxed.comment-respond{ --padding:30px; } .header-menu-sidebar-bg{ --justify: flex-start; --textalign: left;--flexg: 1;--wrapdropdownwidth: auto; } .header-menu-sidebar{ width: 350px; } .builder-item--logo{ --maxwidth: 32px;--padding:10px 0;--margin:0; --textalign: left;--justify: flex-start; } .builder-item--nav-icon{ --label-margin:0 5px 0 0;;--padding:10px 15px;--margin:0; } .builder-item--primary-menu{ --spacing: 20px; --height: 25px;--padding:0;--margin:0; --fontsize: 1em; --lineheight: 1.6em; --letterspacing: 0px; --iconsize: 1em; } .builder-item--header_search{ --height: 40px;--formfieldborderwidth:1px;--formfieldborderradius:2px;--padding:0;--margin:0; } .builder-item--header_search_responsive{ --formfieldfontsize: 14px;--formfieldborderwidth:1px;--formfieldborderradius:2px; --height: 40px;--padding:0 10px;--margin:0; } .builder-item--footer-one-widgets{ --padding:0;--margin:0; --textalign: left;--justify: flex-start; } }@media(min-width: 960px){ :root{ --container: 1128px;--postwidth:33.333333333333%;--btnpadding:16px 35px;--primarybtnpadding:16px 35px;--secondarybtnpadding:16px 35px; --btnfs: 16px; --btnlineheight: 1.6em; --bodyfontsize: 16px; --bodylineheight: 1.7em; --bodyletterspacing: 0px; --h1fontsize: 40px; --h1lineheight: 1.1em; --h1letterspacing: 0px; --h2fontsize: 32px; --h2lineheight: 1.2em; --h2letterspacing: 0px; --h3fontsize: 28px; --h3lineheight: 1.4em; --h3letterspacing: 0px; --h4fontsize: 24px; --h4lineheight: 1.5em; --h4letterspacing: 0px; --h5fontsize: 20px; --h5lineheight: 1.6em; --h5letterspacing: 0px; --h6fontsize: 16px; --h6lineheight: 1.6em; --h6letterspacing: 0px; } body:not(.single):not(.archive):not(.blog):not(.search):not(.error404) .neve-main > .container .col, body.post-type-archive-course .neve-main > .container .col, body.post-type-archive-llms_membership .neve-main > .container .col{ max-width: 65%; } body:not(.single):not(.archive):not(.blog):not(.search):not(.error404) .nv-sidebar-wrap, body.post-type-archive-course .nv-sidebar-wrap, body.post-type-archive-llms_membership .nv-sidebar-wrap{ max-width: 35%; } .neve-main > .archive-container .nv-index-posts.col{ max-width: 100%; } .neve-main > .archive-container .nv-sidebar-wrap{ max-width: 0%; } .neve-main > .single-post-container .nv-single-post-wrap.col{ max-width: 70%; } .single-post-container .alignfull > [class*="__inner-container"], .single-post-container .alignwide > [class*="__inner-container"]{ max-width:760px } .container-fluid.single-post-container .alignfull > [class*="__inner-container"], .container-fluid.single-post-container .alignwide > [class*="__inner-container"]{ max-width:calc(70% + 15px) } .neve-main > .single-post-container .nv-sidebar-wrap{ max-width: 30%; } .nv-meta-list{ --avatarsize: 20px; } .single .nv-meta-list{ --avatarsize: 20px; } .blog .blog-entry-title, .archive .blog-entry-title{ --fontsize: 20px; } .nv-is-boxed.nv-comments-wrap{ --padding:40px; } .nv-is-boxed.comment-respond{ --padding:40px; } .header-menu-sidebar-bg{ --justify: flex-start; --textalign: left;--flexg: 1;--wrapdropdownwidth: auto; } .header-menu-sidebar{ width: 350px; } .builder-item--logo{ --maxwidth: 48px;--padding:0;--margin:-18px 0; --textalign: left;--justify: flex-start; } .builder-item--nav-icon{ --label-margin:0 5px 0 0;;--padding:10px 15px;--margin:0; } .builder-item--primary-menu{ --spacing: 30px; --height: 38px;--padding:0;--margin:0; --fontsize: 0.8em; --lineheight: 1.6em; --letterspacing: 0px; --iconsize: 0.8em; } .builder-item--header_search{ --height: 40px;--formfieldborderwidth:1px;--formfieldborderradius:2px;--padding:0;--margin:0; } .builder-item--header_search_responsive{ --formfieldfontsize: 27px;--formfieldborderwidth:4px;--formfieldborderradius:2px; --height: 58px;--padding:0 0 0 20px;;--margin:0; } .builder-item--footer-one-widgets{ --padding:0;--margin:0; --textalign: center;--justify: center; } }:root{--nv-primary-accent:#ff9900;--nv-secondary-accent:#f0f0f0;--nv-site-bg:#34373c;--nv-light-bg:#44474c;--nv-dark-bg:#14171c;--nv-text-color:#f8f8f8;--nv-text-dark-bg:#f8f8f8;--nv-c-1:#77b978;--nv-c-2:#f37262;--nv-fallback-ff:Arial, Helvetica, sans-serif;}
+/* devanagari */
+@font-face {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-display: swap;
+src: url(https://freelinuxpcgames.com/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJbecmNE.woff2) format('woff2');
+unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-display: swap;
+src: url(https://freelinuxpcgames.com/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJnecmNE.woff2) format('woff2');
+unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-display: swap;
+src: url(https://freelinuxpcgames.com/wp-content/fonts/poppins/pxiEyp8kv8JHgFVrJJfecg.woff2) format('woff2');
+unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* devanagari */
+@font-face {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-display: swap;
+src: url(https://freelinuxpcgames.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z11lFc-K.woff2) format('woff2');
+unicode-range: U+0900-097F, U+1CD0-1CF6, U+1CF8-1CF9, U+200C-200D, U+20A8, U+20B9, U+25CC, U+A830-A839, U+A8E0-A8FB;
+}
+/* latin-ext */
+@font-face {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-display: swap;
+src: url(https://freelinuxpcgames.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z1JlFc-K.woff2) format('woff2');
+unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-display: swap;
+src: url(https://freelinuxpcgames.com/wp-content/fonts/poppins/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2) format('woff2');
+unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+</style>
+<link rel="stylesheet" id="jetpack_css-css" data-pmdelayedstyle="https://c0.wp.com/p/jetpack/12.1/css/jetpack.css" type="text/css" media="all" />
+<script type="pmdelayedscript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://freelinuxpcgames.com/wp-content/plugins/perfmatters/js/analytics.js','ga');ga('create', 'G-LFR4VZ1EGG', 'auto');ga('set', 'allowAdFeatures', false);ga('set', 'anonymizeIp', true);ga('send', 'pageview');</script> <style>img#wpstats{display:none}</style>
+<link rel="icon" href="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/cropped-Linux_Logo-1.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/cropped-Linux_Logo-1.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/cropped-Linux_Logo-1.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/cropped-Linux_Logo-1.png?fit=270%2C270&#038;ssl=1" />
+<style type="text/css" id="wp-custom-css">
+.neve-main {margin-top: -20px;}
+.nv-thumb-wrap {display: flex; justify-content: center;} .neve-breadcrumbs-wrapper a {color: #ffffff;} .widget .widget-title {font-size: 30px; margin-bottom: 30px} .post-widget-area {text-align: center; margin-bottom: 20px;} .widget_top-posts li {padding: 5px 5px; border-bottom: 1px solid #44474c;} .comment-author-link {font-weight: bold;} .recentcomments a {font-style: italic;} .recent-comments-list>li { padding: 8px 0; border-bottom: 1px solid #44474c;} #comments input[type="submit"] {background: #14171c;} a.download-btn {border: #ff9900 solid; color:#fff; border-radius: 8px; padding: 8px 8px; font-weight: 800; text-decoration: none; text-align: center; display: inline-block; width: 200px; margin-top: 10px;} a.download-btn:hover{background-color:#ff9900; color:#fff;} .content {text-align: center; background: #555;} .layout-grid .content> .blog-entry-title{padding: 0px 10px} body:not(.nv-blog-default) .posts-wrapper article {padding: 0px calc(var(--gridspacing,10px)/ 2);}ul.page-numbers {justify-content: center;}		</style>
+<noscript><style>.perfmatters-lazy[data-src]{display:none !important;}</style></noscript><style>.perfmatters-lazy:not(picture),.perfmatters-lazy>img{opacity:0}.perfmatters-lazy.pmloaded,.perfmatters-lazy>img.pmloaded,.perfmatters-lazy[data-ll-status=entered],.perfmatters-lazy.pmloaded>img{opacity:1;transition:opacity 500ms}</style>
+</head>
+<body class="home blog paged wp-custom-logo paged-50  nv-blog-grid nv-sidebar-full-width menu_sidebar_slide_left" id="neve_body">
+<div class="wrapper">
+<header class="header">
+<a class="neve-skip-link show-on-focus" href="#content">
+Skip to content </a>
+<div id="header-grid" class="hfg_header site-header">
+<nav class="header--row header-main hide-on-mobile hide-on-tablet layout-full-contained nv-navbar header--row" data-row-id="main" data-show-on="desktop">
+<div class="header--row-inner header-main-inner">
+<div class="container">
+<div class="row row--wrapper" data-section="hfg_header_layout_main">
+<div class="hfg-slot left"><div class="builder-item desktop-left"><div class="item--inner builder-item--logo" data-section="title_tagline" data-item-id="logo">
+<div class="site-logo">
+<span class="brand" title="Free Linux PC Games" aria-label="Free Linux PC Games"><div class="title-with-logo"><img data-perfmatters-preload width="163" height="180" src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/cropped-Linux_Logo.png?fit=163%2C180&amp;ssl=1" class="neve-site-logo skip-lazy" alt="freelinuxpcgames_logo" decoding="async" data-variant="logo" /><div class="nv-title-tagline-wrap"><small>Full Native Linux Game Downloads</small></div></div></span></div>
+</div>
+</div></div><div class="hfg-slot right"><div class="builder-item has-nav hfg-is-group has-primary-menu"><div class="item--inner builder-item--primary-menu has_menu" data-section="header_menu_primary" data-item-id="primary-menu">
+<div class="nv-nav-wrap">
+<div role="navigation" class="nav-menu-primary style-full-height m-style" aria-label="Primary Menu">
+<ul id="nv-primary-navigation-main" class="primary-menu-ul nav-ul menu-desktop"><li id="menu-item-742" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-742"><div class="wrap"><a href="https://freelinuxpcgames.com/">Home</a></div></li>
+<li id="menu-item-348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-348"><div class="wrap"><a href="https://freelinuxpcgames.com/about/">About</a></div></li>
+<li id="menu-item-364" class="caret-wrap 3 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-364"><div class="wrap"><a href="#"><span class="menu-item-title-wrap dd-title">Categories</span></a><div role="button" aria-pressed="false" aria-label="Open Submenu" tabindex="0" class="caret-wrap caret 3" style="margin-left:5px;"><span class="caret"><svg aria-label="Dropdown" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z" /></svg></span></div></div>
+<ul class="sub-menu">
+<li id="menu-item-351" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-351"><div class="wrap"><a href="https://freelinuxpcgames.com/category/action/">Action</a></div></li>
+<li id="menu-item-644" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-644"><div class="wrap"><a href="https://freelinuxpcgames.com/category/adventure/">Adventure</a></div></li>
+<li id="menu-item-353" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-353"><div class="wrap"><a href="https://freelinuxpcgames.com/category/driving/">Driving</a></div></li>
+<li id="menu-item-354" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-354"><div class="wrap"><a href="https://freelinuxpcgames.com/category/fighting/">Fighting</a></div></li>
+<li id="menu-item-355" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-355"><div class="wrap"><a href="https://freelinuxpcgames.com/category/horror/">Horror</a></div></li>
+<li id="menu-item-356" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-356"><div class="wrap"><a href="https://freelinuxpcgames.com/category/platformer/">Platformer</a></div></li>
+<li id="menu-item-357" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-357"><div class="wrap"><a href="https://freelinuxpcgames.com/category/point-and-click/">Point-and-Click</a></div></li>
+<li id="menu-item-358" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-358"><div class="wrap"><a href="https://freelinuxpcgames.com/category/puzzle/">Puzzle</a></div></li>
+<li id="menu-item-359" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-359"><div class="wrap"><a href="https://freelinuxpcgames.com/category/rpg/">RPG</a></div></li>
+<li id="menu-item-360" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-360"><div class="wrap"><a href="https://freelinuxpcgames.com/category/sci-fi/">Sci-Fi</a></div></li>
+<li id="menu-item-361" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-361"><div class="wrap"><a href="https://freelinuxpcgames.com/category/shooter/">Shooter</a></div></li>
+<li id="menu-item-362" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-362"><div class="wrap"><a href="https://freelinuxpcgames.com/category/simulation/">Simulation</a></div></li>
+<li id="menu-item-363" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-363"><div class="wrap"><a href="https://freelinuxpcgames.com/category/strategy/">Strategy</a></div></li>
+<li id="menu-item-416" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-416"><div class="wrap"><a href="https://freelinuxpcgames.com/category/visual-novel/">Visual Novel</a></div></li>
+</ul>
+</li>
+<li id="menu-item-739" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-739"><div class="wrap"><a rel="privacy-policy" href="https://freelinuxpcgames.com/privacy-policy/">Privacy Policy</a></div></li>
+<li id="menu-item-741" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-741"><div class="wrap"><a href="https://freelinuxpcgames.com/dmca/">DMCA</a></div></li>
+</ul> </div>
+</div>
+</div>
+<div class="item--inner builder-item--header_search_responsive" data-section="header_search_responsive" data-item-id="header_search_responsive">
+<div class="nv-search-icon-component">
+<div class="menu-item-nav-search canvas">
+<a aria-label="Search" href="#" class="nv-icon nv-search">
+<svg width="20" height="20" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1216 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z" /></svg>
+</a> <div class="nv-nav-search" aria-label="search">
+<div class="form-wrap container responsive-search">
+<form role="search" method="get" class="search-form" action="https://freelinuxpcgames.com/">
+<label>
+<span class="screen-reader-text">Search for...</span>
+</label>
+<input type="search" class="search-field" aria-label="Search" placeholder="Search for..." value name="s" />
+<button type="submit" class="search-submit nv-submit" aria-label="Search">
+<span class="nv-search-icon-wrap">
+<span class="nv-icon nv-search">
+<svg width="15" height="15" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1216 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z" /></svg>
+</span> </span>
+</button>
+</form>
+</div>
+<div class="close-container container responsive-search">
+<button class="close-responsive-search" aria-label="Close">
+<svg width="50" height="50" viewBox="0 0 20 20" fill="#555555"><path d="M14.95 6.46L11.41 10l3.54 3.54l-1.41 1.41L10 11.42l-3.53 3.53l-1.42-1.42L8.58 10L5.05 6.47l1.42-1.42L10 8.58l3.54-3.53z" /></svg>
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div> </div>
+</div>
+</div>
+</nav>
+<nav class="header--row header-main hide-on-desktop layout-full-contained nv-navbar header--row" data-row-id="main" data-show-on="mobile">
+<div class="header--row-inner header-main-inner">
+<div class="container">
+<div class="row row--wrapper" data-section="hfg_header_layout_main">
+<div class="hfg-slot left"><div class="builder-item mobile-center tablet-left"><div class="item--inner builder-item--logo" data-section="title_tagline" data-item-id="logo">
+<div class="site-logo">
+<span class="brand" title="Free Linux PC Games" aria-label="Free Linux PC Games"><div class="title-with-logo"><img data-perfmatters-preload width="163" height="180" src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/cropped-Linux_Logo.png?fit=163%2C180&amp;ssl=1" class="neve-site-logo skip-lazy" alt="freelinuxpcgames_logo" decoding="async" data-variant="logo" /><div class="nv-title-tagline-wrap"><small>Full Native Linux Game Downloads</small></div></div></span></div>
+</div>
+</div></div><div class="hfg-slot right"><div class="builder-item mobile-center tablet-right"><div class="item--inner builder-item--nav-icon" data-section="header_menu_icon" data-item-id="nav-icon">
+<div class="menu-mobile-toggle item-button navbar-toggle-wrapper">
+<button type="button" class=" navbar-toggle" value="Navigation Menu" aria-label="Navigation Menu ">
+<span class="bars">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</span>
+<span class="screen-reader-text">Navigation Menu</span>
+</button>
+</div> 
+</div>
+</div></div> </div>
+</div>
+</div>
+</nav>
+<div id="header-menu-sidebar" class="header-menu-sidebar tcb menu-sidebar-panel slide_left hfg-pe" data-row-id="sidebar">
+<div id="header-menu-sidebar-bg" class="header-menu-sidebar-bg">
+<div class="close-sidebar-panel navbar-toggle-wrapper">
+<button type="button" class="hamburger is-active  navbar-toggle active" value="Navigation Menu" aria-label="Navigation Menu ">
+<span class="bars">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</span>
+<span class="screen-reader-text">
+Navigation Menu </span>
+</button>
+</div>
+<div id="header-menu-sidebar-inner" class="header-menu-sidebar-inner tcb ">
+<div class="builder-item desktop-left tablet-left mobile-left"><div class="item--inner builder-item--header_search" data-section="header_search" data-item-id="header_search">
+<div class="component-wrap search-field">
+<div class="widget widget-search" style="padding: 0;margin: 8px 2px;">
+<form role="search" method="get" class="search-form" action="https://freelinuxpcgames.com/">
+<label>
+<span class="screen-reader-text">Search for...</span>
+</label>
+<input type="search" class="search-field" aria-label="Search" placeholder="Search for..." value name="s" />
+<button type="submit" class="search-submit nv-submit" aria-label="Search">
+<span class="nv-search-icon-wrap">
+<span class="nv-icon nv-search">
+<svg width="15" height="15" viewBox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1216 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z" /></svg>
+</span> </span>
+</button>
+</form>
+</div>
+</div>
+</div>
+</div><div class="builder-item has-nav"><div class="item--inner builder-item--primary-menu has_menu" data-section="header_menu_primary" data-item-id="primary-menu">
+<div class="nv-nav-wrap">
+<div role="navigation" class="nav-menu-primary style-full-height m-style" aria-label="Primary Menu">
+<ul id="nv-primary-navigation-sidebar" class="primary-menu-ul nav-ul menu-mobile"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-home menu-item-742"><div class="wrap"><a href="https://freelinuxpcgames.com/">Home</a></div></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-348"><div class="wrap"><a href="https://freelinuxpcgames.com/about/">About</a></div></li>
+<li class="caret-wrap 3 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-364"><div class="wrap"><a href="#"><span class="menu-item-title-wrap dd-title">Categories</span></a><button tabindex="0" type="button" class="caret-wrap navbar-toggle 3 " style="margin-left:5px;"><span class="caret"><svg aria-label="Dropdown" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z" /></svg></span></button></div>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-351"><div class="wrap"><a href="https://freelinuxpcgames.com/category/action/">Action</a></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-644"><div class="wrap"><a href="https://freelinuxpcgames.com/category/adventure/">Adventure</a></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-353"><div class="wrap"><a href="https://freelinuxpcgames.com/category/driving/">Driving</a></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-354"><div class="wrap"><a href="https://freelinuxpcgames.com/category/fighting/">Fighting</a></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-355"><div class="wrap"><a href="https://freelinuxpcgames.com/category/horror/">Horror</a></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-356"><div class="wrap"><a href="https://freelinuxpcgames.com/category/platformer/">Platformer</a></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-357"><div class="wrap"><a href="https://freelinuxpcgames.com/category/point-and-click/">Point-and-Click</a></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-358"><div class="wrap"><a href="https://freelinuxpcgames.com/category/puzzle/">Puzzle</a></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-359"><div class="wrap"><a href="https://freelinuxpcgames.com/category/rpg/">RPG</a></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-360"><div class="wrap"><a href="https://freelinuxpcgames.com/category/sci-fi/">Sci-Fi</a></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-361"><div class="wrap"><a href="https://freelinuxpcgames.com/category/shooter/">Shooter</a></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-362"><div class="wrap"><a href="https://freelinuxpcgames.com/category/simulation/">Simulation</a></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-363"><div class="wrap"><a href="https://freelinuxpcgames.com/category/strategy/">Strategy</a></div></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-416"><div class="wrap"><a href="https://freelinuxpcgames.com/category/visual-novel/">Visual Novel</a></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-739"><div class="wrap"><a rel="privacy-policy" href="https://freelinuxpcgames.com/privacy-policy/">Privacy Policy</a></div></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-741"><div class="wrap"><a href="https://freelinuxpcgames.com/dmca/">DMCA</a></div></li>
+</ul> </div>
+</div>
+</div>
+</div> </div>
+</div>
+</div>
+<div class="header-menu-sidebar-overlay hfg-ov hfg-pe"></div>
+</div>
+</header>
+<style>.is-menu-sidebar .header-menu-sidebar { visibility: visible; }.is-menu-sidebar.menu_sidebar_slide_left .header-menu-sidebar { transform: translate3d(0, 0, 0); left: 0; }.is-menu-sidebar.menu_sidebar_slide_right .header-menu-sidebar { transform: translate3d(0, 0, 0); right: 0; }.is-menu-sidebar.menu_sidebar_pull_right .header-menu-sidebar, .is-menu-sidebar.menu_sidebar_pull_left .header-menu-sidebar { transform: translateX(0); }.is-menu-sidebar.menu_sidebar_dropdown .header-menu-sidebar { height: auto; }.is-menu-sidebar.menu_sidebar_dropdown .header-menu-sidebar-inner { max-height: 400px; padding: 20px 0; }.is-menu-sidebar.menu_sidebar_full_canvas .header-menu-sidebar { opacity: 1; }.header-menu-sidebar .menu-item-nav-search { pointer-events: none; }.header-menu-sidebar .menu-item-nav-search .is-menu-sidebar & { pointer-events: unset; }.nav-ul li:focus-within .wrap.active + .sub-menu { opacity: 1; visibility: visible; }.nav-ul li.neve-mega-menu:focus-within .wrap.active + .sub-menu { display: grid; }.nav-ul li > .wrap { display: flex; align-items: center; position: relative; padding: 0 4px; }.nav-ul:not(.menu-mobile):not(.neve-mega-menu) > li > .wrap > a { padding-top: 1px }</style><style>.header-menu-sidebar .nav-ul li .wrap { padding: 0 4px; }.header-menu-sidebar .nav-ul li .wrap a { flex-grow: 1; display: flex; }.header-menu-sidebar .nav-ul li .wrap a .dd-title { width: var(--wrapdropdownwidth); }.header-menu-sidebar .nav-ul li .wrap button { border: 0; z-index: 1; background: 0; }</style><aside class="header-widget-area" role="complementary">
+<section id="custom_html-9" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><script data-cfasync="false" src="//acacdn.com/script/suv4.js" data-adel="lwsu" cdnd="acacdn.com" zid="6160762" type="pmdelayedscript" data-no-optimize="1" data-no-defer="1" data-no-minify="1"></script></div></section></aside>
+<main id="content" class="neve-main">
+<div class="container archive-container">
+<div class="row">
+<div class="nv-index-posts blog col">
+<div class="posts-wrapper"><article id="post-291" class="post-291 post type-post status-publish format-standard has-post-thumbnail hentry category-action category-adventure category-platformer category-puzzle tag-trine-enchanted-edition-free-download-linux-game tag-trine-enchanted-edition-full-linux-native-game tag-trine-enchanted-edition-linux-game-download layout-grid ">
+<div class="article-content-col">
+<div class="content">
+<div class="nv-post-thumbnail-wrap img-wrap"><a href="https://freelinuxpcgames.com/trine-enchanted-edition/" rel="bookmark" title="Trine Enchanted Edition"><img data-perfmatters-preload width="678" height="381" src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/Trine-Enchanted-Edition.jpg?resize=678%2C381&amp;ssl=1" class="skip-lazy wp-post-image" alt="Trine Enchanted Edition" decoding="async" /></a></div><h2 class="blog-entry-title entry-title"><a href="https://freelinuxpcgames.com/trine-enchanted-edition/" rel="bookmark">Trine Enchanted Edition</a></h2><ul class="nv-meta-list"></ul> </div>
+</div>
+</article>
+<article id="post-288" class="post-288 post type-post status-publish format-standard has-post-thumbnail hentry category-action category-shooter tag-lovers-in-a-dangerous-spacetime-free-download-linux-game tag-lovers-in-a-dangerous-spacetime-full-linux-native-game tag-lovers-in-a-dangerous-spacetime-linux-game-download layout-grid ">
+<div class="article-content-col">
+<div class="content">
+<div class="nv-post-thumbnail-wrap img-wrap"><a href="https://freelinuxpcgames.com/lovers-in-a-dangerous-spacetime/" rel="bookmark" title="Lovers in a Dangerous Spacetime"><img width="678" height="381" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20width=&#039;678&#039;%20height=&#039;381&#039;%20viewBox=&#039;0%200%20678%20381&#039;%3E%3C/svg%3E" class=" wp-post-image perfmatters-lazy" alt="Lovers in a Dangerous Spacetime" decoding="async" data-src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/Lovers-in-a-Dangerous-Spacetime.jpg?resize=678%2C381&amp;ssl=1" /><noscript><img width="678" height="381" src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/Lovers-in-a-Dangerous-Spacetime.jpg?resize=678%2C381&amp;ssl=1" class=" wp-post-image" alt="Lovers in a Dangerous Spacetime" decoding="async" /></noscript></a></div><h2 class="blog-entry-title entry-title"><a href="https://freelinuxpcgames.com/lovers-in-a-dangerous-spacetime/" rel="bookmark">Lovers in a Dangerous Spacetime</a></h2><ul class="nv-meta-list"></ul> </div>
+</div>
+</article>
+<article id="post-274" class="post-274 post type-post status-publish format-standard has-post-thumbnail hentry category-adventure category-point-and-click category-puzzle tag-dropsy-free-download-linux-game tag-dropsy-full-linux-native-game tag-dropsy-linux-game-download layout-grid ">
+<div class="article-content-col">
+<div class="content">
+<div class="nv-post-thumbnail-wrap img-wrap"><a href="https://freelinuxpcgames.com/dropsy/" rel="bookmark" title="Dropsy"><img width="678" height="381" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20width=&#039;678&#039;%20height=&#039;381&#039;%20viewBox=&#039;0%200%20678%20381&#039;%3E%3C/svg%3E" class=" wp-post-image perfmatters-lazy" alt="Dropsy" decoding="async" data-src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/Dropsy.jpg?resize=678%2C381&amp;ssl=1" /><noscript><img width="678" height="381" src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/Dropsy.jpg?resize=678%2C381&amp;ssl=1" class=" wp-post-image" alt="Dropsy" decoding="async" /></noscript></a></div><h2 class="blog-entry-title entry-title"><a href="https://freelinuxpcgames.com/dropsy/" rel="bookmark">Dropsy</a></h2><ul class="nv-meta-list"></ul> </div>
+</div>
+</article>
+<article id="post-269" class="post-269 post type-post status-publish format-standard has-post-thumbnail hentry category-action category-fighting tag-fist-puncher-free-download-linux-game tag-fist-puncher-full-linux-native-game tag-fist-puncher-linux-game-download layout-grid ">
+<div class="article-content-col">
+<div class="content">
+<div class="nv-post-thumbnail-wrap img-wrap"><a href="https://freelinuxpcgames.com/fist-puncher/" rel="bookmark" title="Fist Puncher"><img width="678" height="381" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20width=&#039;678&#039;%20height=&#039;381&#039;%20viewBox=&#039;0%200%20678%20381&#039;%3E%3C/svg%3E" class=" wp-post-image perfmatters-lazy" alt="Fist Puncher" decoding="async" data-src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/Fist-Puncher.jpg?resize=678%2C381&amp;ssl=1" /><noscript><img width="678" height="381" src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/Fist-Puncher.jpg?resize=678%2C381&amp;ssl=1" class=" wp-post-image" alt="Fist Puncher" decoding="async" /></noscript></a></div><h2 class="blog-entry-title entry-title"><a href="https://freelinuxpcgames.com/fist-puncher/" rel="bookmark">Fist Puncher</a></h2><ul class="nv-meta-list"></ul> </div>
+</div>
+</article>
+<article id="post-1" class="post-1 post type-post status-publish format-standard has-post-thumbnail hentry category-adventure category-point-and-click tag-a-golden-wake-free-download-linux-game tag-a-golden-wake-full-linux-native-game tag-a-golden-wake-linux-game-download layout-grid ">
+<div class="article-content-col">
+<div class="content">
+<div class="nv-post-thumbnail-wrap img-wrap"><a href="https://freelinuxpcgames.com/a-golden-wake/" rel="bookmark" title="A Golden Wake"><img width="678" height="381" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20width=&#039;678&#039;%20height=&#039;381&#039;%20viewBox=&#039;0%200%20678%20381&#039;%3E%3C/svg%3E" class=" wp-post-image perfmatters-lazy" alt="A Golden Wake" decoding="async" data-src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/A-Golden-Wake.jpg?resize=678%2C381&amp;ssl=1" data-srcset="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/A-Golden-Wake.jpg?w=678&amp;ssl=1 678w, https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/A-Golden-Wake.jpg?resize=300%2C169&amp;ssl=1 300w" data-sizes="(max-width: 678px) 100vw, 678px" /><noscript><img width="678" height="381" src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/A-Golden-Wake.jpg?resize=678%2C381&amp;ssl=1" class=" wp-post-image" alt="A Golden Wake" decoding="async" srcset="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/A-Golden-Wake.jpg?w=678&amp;ssl=1 678w, https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/A-Golden-Wake.jpg?resize=300%2C169&amp;ssl=1 300w" sizes="(max-width: 678px) 100vw, 678px" /></noscript></a></div><h2 class="blog-entry-title entry-title"><a href="https://freelinuxpcgames.com/a-golden-wake/" rel="bookmark">A Golden Wake</a></h2><ul class="nv-meta-list"></ul> </div>
+</div>
+</article>
+<article id="post-263" class="post-263 post type-post status-publish format-standard has-post-thumbnail hentry category-adventure category-rpg tag-to-the-moon-free-download-linux-game tag-to-the-moon-full-linux-native-game tag-to-the-moon-linux-game-download layout-grid ">
+<div class="article-content-col">
+<div class="content">
+<div class="nv-post-thumbnail-wrap img-wrap"><a href="https://freelinuxpcgames.com/to-the-moon/" rel="bookmark" title="To The Moon"><img width="678" height="381" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20width=&#039;678&#039;%20height=&#039;381&#039;%20viewBox=&#039;0%200%20678%20381&#039;%3E%3C/svg%3E" class=" wp-post-image perfmatters-lazy" alt="To The Moon" decoding="async" data-src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/To-The-Moon.jpg?resize=678%2C381&amp;ssl=1" /><noscript><img width="678" height="381" src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/To-The-Moon.jpg?resize=678%2C381&amp;ssl=1" class=" wp-post-image" alt="To The Moon" decoding="async" /></noscript></a></div><h2 class="blog-entry-title entry-title"><a href="https://freelinuxpcgames.com/to-the-moon/" rel="bookmark">To The Moon</a></h2><ul class="nv-meta-list"></ul> </div>
+</div>
+</article>
+<article id="post-231" class="post-231 post type-post status-publish format-standard has-post-thumbnail hentry category-action category-adventure category-platformer tag-oddworld-new-n-tasty-free-download-linux-game tag-oddworld-new-n-tasty-full-linux-native-game tag-oddworld-new-n-tasty-linux-game-download layout-grid ">
+<div class="article-content-col">
+<div class="content">
+<div class="nv-post-thumbnail-wrap img-wrap"><a href="https://freelinuxpcgames.com/oddworld-new-n-tasty/" rel="bookmark" title="Oddworld: New &#8216;n&#8217; Tasty"><img width="678" height="381" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20width=&#039;678&#039;%20height=&#039;381&#039;%20viewBox=&#039;0%200%20678%20381&#039;%3E%3C/svg%3E" class=" wp-post-image perfmatters-lazy" alt="Oddworld: New &#039;n&#039; Tasty" decoding="async" data-src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/03/Oddworld-New-n-Tasty.jpg?resize=678%2C381&amp;ssl=1" data-srcset="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/03/Oddworld-New-n-Tasty.jpg?w=678&amp;ssl=1 678w, https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/03/Oddworld-New-n-Tasty.jpg?resize=300%2C169&amp;ssl=1 300w" data-sizes="(max-width: 678px) 100vw, 678px" /><noscript><img width="678" height="381" src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/03/Oddworld-New-n-Tasty.jpg?resize=678%2C381&amp;ssl=1" class=" wp-post-image" alt="Oddworld: New &#039;n&#039; Tasty" decoding="async" srcset="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/03/Oddworld-New-n-Tasty.jpg?w=678&amp;ssl=1 678w, https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/03/Oddworld-New-n-Tasty.jpg?resize=300%2C169&amp;ssl=1 300w" sizes="(max-width: 678px) 100vw, 678px" /></noscript></a></div><h2 class="blog-entry-title entry-title"><a href="https://freelinuxpcgames.com/oddworld-new-n-tasty/" rel="bookmark">Oddworld: New &#8216;n&#8217; Tasty</a></h2><ul class="nv-meta-list"></ul> </div>
+</div>
+</article>
+<article id="post-213" class="post-213 post type-post status-publish format-standard has-post-thumbnail hentry category-rpg category-sci-fi category-strategy tag-deadnaut-free-download-linux-game tag-deadnaut-full-linux-native-game tag-deadnaut-linux-game-download layout-grid ">
+<div class="article-content-col">
+<div class="content">
+<div class="nv-post-thumbnail-wrap img-wrap"><a href="https://freelinuxpcgames.com/deadnaut/" rel="bookmark" title="Deadnaut"><img width="678" height="381" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20width=&#039;678&#039;%20height=&#039;381&#039;%20viewBox=&#039;0%200%20678%20381&#039;%3E%3C/svg%3E" class=" wp-post-image perfmatters-lazy" alt="Deadnaut" decoding="async" data-src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/Deadnaut.jpg?resize=678%2C381&amp;ssl=1" data-srcset="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/Deadnaut.jpg?w=678&amp;ssl=1 678w, https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/Deadnaut.jpg?resize=300%2C169&amp;ssl=1 300w" data-sizes="(max-width: 678px) 100vw, 678px" /><noscript><img width="678" height="381" src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/Deadnaut.jpg?resize=678%2C381&amp;ssl=1" class=" wp-post-image" alt="Deadnaut" decoding="async" srcset="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/Deadnaut.jpg?w=678&amp;ssl=1 678w, https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/Deadnaut.jpg?resize=300%2C169&amp;ssl=1 300w" sizes="(max-width: 678px) 100vw, 678px" /></noscript></a></div><h2 class="blog-entry-title entry-title"><a href="https://freelinuxpcgames.com/deadnaut/" rel="bookmark">Deadnaut</a></h2><ul class="nv-meta-list"></ul> </div>
+</div>
+</article>
+<article id="post-208" class="post-208 post type-post status-publish format-standard has-post-thumbnail hentry category-adventure category-point-and-click category-rpg tag-quest-for-infamy-free-download-linux-game tag-quest-for-infamy-full-linux-native-game tag-quest-for-infamy-linux-game-download layout-grid ">
+<div class="article-content-col">
+<div class="content">
+<div class="nv-post-thumbnail-wrap img-wrap"><a href="https://freelinuxpcgames.com/quest-for-infamy/" rel="bookmark" title="Quest for Infamy"><img width="678" height="381" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20width=&#039;678&#039;%20height=&#039;381&#039;%20viewBox=&#039;0%200%20678%20381&#039;%3E%3C/svg%3E" class=" wp-post-image perfmatters-lazy" alt="Quest for Infamy" decoding="async" data-src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/Quest-for-Infamy.jpg?resize=678%2C381&amp;ssl=1" data-srcset="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/Quest-for-Infamy.jpg?w=678&amp;ssl=1 678w, https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/Quest-for-Infamy.jpg?resize=300%2C169&amp;ssl=1 300w" data-sizes="(max-width: 678px) 100vw, 678px" /><noscript><img width="678" height="381" src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/Quest-for-Infamy.jpg?resize=678%2C381&amp;ssl=1" class=" wp-post-image" alt="Quest for Infamy" decoding="async" srcset="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/Quest-for-Infamy.jpg?w=678&amp;ssl=1 678w, https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/2021/01/Quest-for-Infamy.jpg?resize=300%2C169&amp;ssl=1 300w" sizes="(max-width: 678px) 100vw, 678px" /></noscript></a></div><h2 class="blog-entry-title entry-title"><a href="https://freelinuxpcgames.com/quest-for-infamy/" rel="bookmark">Quest for Infamy</a></h2><ul class="nv-meta-list"></ul> </div>
+</div>
+</article>
+<article id="post-936" class="post-936 post type-post status-publish format-standard has-post-thumbnail hentry category-adventure category-rpg category-strategy tag-curious-expedition-free-download-linux-game tag-curious-expedition-full-linux-native-game tag-curious-expedition-linux-game-download layout-grid ">
+<div class="article-content-col">
+<div class="content">
+<div class="nv-post-thumbnail-wrap img-wrap"><a href="https://freelinuxpcgames.com/curious-expedition/" rel="bookmark" title="Curious Expedition"><img width="678" height="381" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20width=&#039;678&#039;%20height=&#039;381&#039;%20viewBox=&#039;0%200%20678%20381&#039;%3E%3C/svg%3E" class=" wp-post-image perfmatters-lazy" alt="Curious Expedition" decoding="async" data-src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/Curious-Expedition.jpg?resize=678%2C381&amp;ssl=1" /><noscript><img width="678" height="381" src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/Curious-Expedition.jpg?resize=678%2C381&amp;ssl=1" class=" wp-post-image" alt="Curious Expedition" decoding="async" /></noscript></a></div><h2 class="blog-entry-title entry-title"><a href="https://freelinuxpcgames.com/curious-expedition/" rel="bookmark">Curious Expedition</a></h2><ul class="nv-meta-list"></ul> </div>
+</div>
+</article>
+<article id="post-933" class="post-933 post type-post status-publish format-standard has-post-thumbnail hentry category-action category-horror category-rpg tag-death-road-to-canada-free-download-linux-game tag-death-road-to-canada-full-linux-native-game tag-death-road-to-canada-linux-game-download layout-grid ">
+<div class="article-content-col">
+<div class="content">
+<div class="nv-post-thumbnail-wrap img-wrap"><a href="https://freelinuxpcgames.com/death-road-to-canada/" rel="bookmark" title="Death Road to Canada"><img width="678" height="381" src="data:image/svg+xml,%3Csvg%20xmlns=&#039;http://www.w3.org/2000/svg&#039;%20width=&#039;678&#039;%20height=&#039;381&#039;%20viewBox=&#039;0%200%20678%20381&#039;%3E%3C/svg%3E" class=" wp-post-image perfmatters-lazy" alt="Death Road to Canada" decoding="async" data-src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/Death-Road-to-Canada.jpg?resize=678%2C381&amp;ssl=1" /><noscript><img width="678" height="381" src="https://i0.wp.com/freelinuxpcgames.com/wp-content/uploads/Death-Road-to-Canada.jpg?resize=678%2C381&amp;ssl=1" class=" wp-post-image" alt="Death Road to Canada" decoding="async" /></noscript></a></div><h2 class="blog-entry-title entry-title"><a href="https://freelinuxpcgames.com/death-road-to-canada/" rel="bookmark">Death Road to Canada</a></h2><ul class="nv-meta-list"></ul> </div>
+</div>
+</article>
+</div><ul class="page-numbers">
+<li><a rel="prev" class="prev page-numbers" href="https://freelinuxpcgames.com/page/49/">&laquo; Previous</a></li>
+<li><a class="page-numbers" href="https://freelinuxpcgames.com/">1</a></li>
+<li><span class="page-numbers dots">&hellip;</span></li>
+<li><a class="page-numbers" href="https://freelinuxpcgames.com/page/48/">48</a></li>
+<li><a class="page-numbers" href="https://freelinuxpcgames.com/page/49/">49</a></li>
+<li><span class="page-numbers current">50</span></li>
+</ul>
+<div class="w-100"></div>
+</div>
+</div>
+</div>
+</main>
+<aside class="footer-widget-area" role="complementary">
+<section id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget">
+<script type="pmdelayedscript" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1">
+//<![CDATA[
+var sc_project=12499190; 
+var sc_invisible=1; 
+var sc_security="78538b38"; 
+//]]>
+</script>
+<script type="pmdelayedscript" src="https://www.statcounter.com/counter/counter_xhtml.js" async data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1"></script>
+<noscript><div class="statcounter"><a title="Web Analytics" href="https://statcounter.com/" class="statcounter"><img class="statcounter" src="https://c.statcounter.com/12499190/0/78538b38/1/" alt="Web Analytics" /></a></div></noscript>
+</div></section></aside>
+<footer class="site-footer" id="site-footer">
+<div class="hfg_footer">
+<div class="footer--row footer-top layout-full-contained" id="cb-row--footer-top" data-row-id="top" data-show-on="desktop">
+<div class="footer--row-inner footer-top-inner footer-content-wrap">
+<div class="container">
+<div class="hfg-grid nv-footer-content hfg-grid-top row--wrapper row " data-section="hfg_footer_layout_top">
+<div class="hfg-slot left"><div class="builder-item desktop-center tablet-left mobile-left"><div class="item--inner builder-item--footer-one-widgets" data-section="neve_sidebar-widgets-footer-one-widgets" data-item-id="footer-one-widgets">
+<div class="widget-area">
+<div id="text-2" class="widget widget_text"> <div class="textwidget"><p>© 2021-2022 FREELINUXPCGAMES.COM, All Rights Reserved</p>
+</div>
+</div> </div>
+</div>
+</div></div> </div>
+</div>
+</div>
+</div>
+<div class="footer--row footer-bottom layout-full-contained" id="cb-row--footer-bottom" data-row-id="bottom" data-show-on="desktop">
+<div class="footer--row-inner footer-bottom-inner footer-content-wrap">
+<div class="container">
+<div class="hfg-grid nv-footer-content hfg-grid-bottom row--wrapper row " data-section="hfg_footer_layout_bottom">
+<div class="hfg-slot left"></div> </div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+<script type="pmdelayedscript" src="https://c0.wp.com/p/jetpack/12.1/_inc/build/photon/photon.min.js" id="jetpack-photon-js" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1"></script>
+<script type="pmdelayedscript" id="neve-script-js-extra" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1">
+/* <![CDATA[ */
+var NeveProperties = {"ajaxurl":"https:\/\/freelinuxpcgames.com\/wp-admin\/admin-ajax.php","nonce":"92b12fbb74","isRTL":"","isCustomize":""};
+/* ]]> */
+</script>
+<script type="pmdelayedscript" src="//freelinuxpcgames.com/wp-content/cache/wpfc-minified/2f8u63v1/btsq4.js" id="neve-script-js" async data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1"></script>
+<script type="pmdelayedscript" id="neve-script-js-after" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1">
+var html = document.documentElement;
+var theme = html.getAttribute('data-neve-theme') || 'light';
+var variants = {"logo":{"light":{"src":"https:\/\/i0.wp.com\/freelinuxpcgames.com\/wp-content\/uploads\/2021\/01\/cropped-Linux_Logo.png?fit=163%2C180&ssl=1","srcset":false,"sizes":"(max-width: 163px) 100vw, 163px"},"dark":{"src":"https:\/\/i0.wp.com\/freelinuxpcgames.com\/wp-content\/uploads\/2021\/01\/cropped-Linux_Logo.png?fit=163%2C180&ssl=1","srcset":false,"sizes":"(max-width: 163px) 100vw, 163px"},"same":true}};
+function setCurrentTheme( theme ) {
+var pictures = document.getElementsByClassName( 'neve-site-logo' );
+for(var i = 0; i<pictures.length; i++) {
+var picture = pictures.item(i);
+if( ! picture ) {
+continue;
+};
+var fileExt = picture.src.slice((Math.max(0, picture.src.lastIndexOf(".")) || Infinity) + 1);
+if ( fileExt === 'svg' ) {
+picture.removeAttribute('width');
+picture.removeAttribute('height');
+picture.style = 'width: var(--maxwidth)';
+}
+var compId = picture.getAttribute('data-variant');
+if ( compId && variants[compId] ) {
+var isConditional = variants[compId]['same'];
+if ( theme === 'light' || isConditional || variants[compId]['dark']['src'] === false ) {
+picture.src = variants[compId]['light']['src'];
+picture.srcset = variants[compId]['light']['srcset'] || '';
+picture.sizes = variants[compId]['light']['sizes'];
+continue;
+};
+picture.src = variants[compId]['dark']['src'];
+picture.srcset = variants[compId]['dark']['srcset'] || '';
+picture.sizes = variants[compId]['dark']['sizes'];
+};
+};
+};
+var observer = new MutationObserver(function(mutations) {
+mutations.forEach(function(mutation) {
+if (mutation.type == 'attributes') {
+theme = html.getAttribute('data-neve-theme');
+setCurrentTheme(theme);
+};
+});
+});
+observer.observe(html, {
+attributes: true
+});
+var menuCarets=document.querySelectorAll(".nav-ul li > .wrap > .caret");menuCarets.forEach((function(e){e.addEventListener("keydown",(e=>{13===e.keyCode&&e.target.parentElement.classList.toggle("active")})),e.parentElement.parentElement.addEventListener("focusout",(t=>{e.parentElement.parentElement.contains(t.relatedTarget)||e.parentElement.classList.remove("active")}))}));
+function initNoLinkDD() {
+var noLinkDDs = document.querySelectorAll(
+'.header-menu-sidebar-inner .menu-item-has-children a[href="#"]'
+);
+if( noLinkDDs.length < 1 ) {
+return;
+}
+noLinkDDs.forEach( function (noLinkDD) {
+var dropdownButton = noLinkDD.parentElement.querySelector('button');
+noLinkDD.addEventListener('click', function (e) {
+e.preventDefault();
+dropdownButton.click();
+});
+});
+}
+window.addEventListener('DOMContentLoaded', initNoLinkDD);
+</script>
+<script type="text/javascript" id="perfmatters-lazy-load-js-before">
+window.lazyLoadOptions={elements_selector:"img[data-src],.perfmatters-lazy,.perfmatters-lazy-css-bg",thresholds:"0px 0px",class_loading:"pmloading",class_loaded:"pmloaded",callback_loaded:function(element){if(element.tagName==="IFRAME"){if(element.classList.contains("pmloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}};window.addEventListener("LazyLoad::Initialized",function(e){var lazyLoadInstance=e.detail.instance;});
+</script>
+<script type="text/javascript" async src="//freelinuxpcgames.com/wp-content/cache/wpfc-minified/ff3mcukb/btsq4.js" id="perfmatters-lazy-load-js"></script>
+<script defer type="pmdelayedscript" src="https://stats.wp.com/e-202319.js" id="jetpack-stats-js" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1"></script>
+<script type="pmdelayedscript" id="jetpack-stats-js-after" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-optimize="1" data-no-defer="1" data-no-minify="1">
+_stq = window._stq || [];
+_stq.push([ "view", {v:'ext',blog:'188260242',post:'0',tz:'-7',srv:'freelinuxpcgames.com',j:'1:12.1'} ]);
+_stq.push([ "clickTrackerInit", "188260242", "0" ]);
+</script>
+<script type="pmdelayedscript" async data-no-optimize="1" src="//freelinuxpcgames.com/wp-content/cache/wpfc-minified/k25l9mgq/btsq3.js" id="perfmatters-instant-page-js" data-perfmatters-type="text/javascript" data-cfasync="false" data-no-defer="1" data-no-minify="1"></script>
+<script type="text/javascript" id="perfmatters-delayed-scripts-js">const pmDelayClick=true;const pmUserInteractions=["keydown","mousedown","mousemove","wheel","touchmove","touchstart","touchend"],pmDelayedScripts={normal:[],defer:[],async:[]},jQueriesArray=[],pmInterceptedClicks=[];var pmDOMLoaded=!1,pmClickTarget="";function pmTriggerDOMListener(){"undefined"!=typeof pmDelayTimer&&clearTimeout(pmDelayTimer),pmUserInteractions.forEach(function(e){window.removeEventListener(e,pmTriggerDOMListener,{passive:!0})}),document.removeEventListener("visibilitychange",pmTriggerDOMListener),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",pmTriggerDelayedScripts):pmTriggerDelayedScripts()}async function pmTriggerDelayedScripts(){pmDelayEventListeners(),pmDelayJQueryReady(),pmProcessDocumentWrite(),pmSortDelayedScripts(),pmPreloadDelayedScripts(),await pmLoadDelayedScripts(pmDelayedScripts.normal),await pmLoadDelayedScripts(pmDelayedScripts.defer),await pmLoadDelayedScripts(pmDelayedScripts.async),await pmTriggerEventListeners(),document.querySelectorAll("link[data-pmdelayedstyle]").forEach(function(e){e.setAttribute("href",e.getAttribute("data-pmdelayedstyle"))}),window.dispatchEvent(new Event("perfmatters-allScriptsLoaded")),pmReplayClicks()}function pmDelayEventListeners(){let e={};function t(t,r){function n(r){return e[t].delayedEvents.indexOf(r)>=0?"perfmatters-"+r:r}e[t]||(e[t]={originalFunctions:{add:t.addEventListener,remove:t.removeEventListener},delayedEvents:[]},t.addEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.add.apply(t,arguments)},t.removeEventListener=function(){arguments[0]=n(arguments[0]),e[t].originalFunctions.remove.apply(t,arguments)}),e[t].delayedEvents.push(r)}function r(e,t){let r=e[t];Object.defineProperty(e,t,{get:r||function(){},set:function(r){e["perfmatters"+t]=r}})}t(document,"DOMContentLoaded"),t(window,"DOMContentLoaded"),t(window,"load"),t(window,"pageshow"),t(document,"readystatechange"),r(document,"onreadystatechange"),r(window,"onload"),r(window,"onpageshow")}function pmDelayJQueryReady(){let e=window.jQuery;Object.defineProperty(window,"jQuery",{get:()=>e,set(t){if(t&&t.fn&&!jQueriesArray.includes(t)){t.fn.ready=t.fn.init.prototype.ready=function(e){pmDOMLoaded?e.bind(document)(t):document.addEventListener("perfmatters-DOMContentLoaded",function(){e.bind(document)(t)})};let r=t.fn.on;t.fn.on=t.fn.init.prototype.on=function(){if(this[0]===window){function e(e){return e=(e=(e=e.split(" ")).map(function(e){return"load"===e||0===e.indexOf("load.")?"perfmatters-jquery-load":e})).join(" ")}"string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=e(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach(function(t){delete Object.assign(arguments[0],{[e(t)]:arguments[0][t]})[t]})}return r.apply(this,arguments),this},jQueriesArray.push(t)}e=t}})}function pmProcessDocumentWrite(){let e=new Map;document.write=document.writeln=function(t){var r=document.currentScript,n=document.createRange();let a=e.get(r);void 0===a&&(a=r.nextSibling,e.set(r,a));var i=document.createDocumentFragment();n.setStart(i,0),i.appendChild(n.createContextualFragment(t)),r.parentElement.insertBefore(i,a)}}function pmSortDelayedScripts(){document.querySelectorAll("script[type=pmdelayedscript]").forEach(function(e){e.hasAttribute("src")?e.hasAttribute("defer")&&!1!==e.defer?pmDelayedScripts.defer.push(e):e.hasAttribute("async")&&!1!==e.async?pmDelayedScripts.async.push(e):pmDelayedScripts.normal.push(e):pmDelayedScripts.normal.push(e)})}function pmPreloadDelayedScripts(){var e=document.createDocumentFragment();[...pmDelayedScripts.normal,...pmDelayedScripts.defer,...pmDelayedScripts.async].forEach(function(t){var r=t.getAttribute("src");if(r){var n=document.createElement("link");n.href=r,n.rel="preload",n.as="script",e.appendChild(n)}}),document.head.appendChild(e)}async function pmLoadDelayedScripts(e){var t=e.shift();return t?(await pmReplaceScript(t),pmLoadDelayedScripts(e)):Promise.resolve()}async function pmReplaceScript(e){return await pmNextFrame(),new Promise(function(t){let r=document.createElement("script");[...e.attributes].forEach(function(e){let t=e.nodeName;"type"!==t&&("data-type"===t&&(t="type"),r.setAttribute(t,e.nodeValue))}),e.hasAttribute("src")?(r.addEventListener("load",t),r.addEventListener("error",t)):(r.text=e.text,t()),e.parentNode.replaceChild(r,e)})}async function pmTriggerEventListeners(){pmDOMLoaded=!0,await pmNextFrame(),document.dispatchEvent(new Event("perfmatters-DOMContentLoaded")),await pmNextFrame(),window.dispatchEvent(new Event("perfmatters-DOMContentLoaded")),await pmNextFrame(),document.dispatchEvent(new Event("perfmatters-readystatechange")),await pmNextFrame(),document.perfmattersonreadystatechange&&document.perfmattersonreadystatechange(),await pmNextFrame(),window.dispatchEvent(new Event("perfmatters-load")),await pmNextFrame(),window.perfmattersonload&&window.perfmattersonload(),await pmNextFrame(),jQueriesArray.forEach(function(e){e(window).trigger("perfmatters-jquery-load")});let e=new Event("perfmatters-pageshow");e.persisted=window.pmPersisted,window.dispatchEvent(e),await pmNextFrame(),window.perfmattersonpageshow&&window.perfmattersonpageshow({persisted:window.pmPersisted})}async function pmNextFrame(){return new Promise(function(e){requestAnimationFrame(e)})}function pmClickHandler(e){e.target.removeEventListener("click",pmClickHandler),pmRenameDOMAttribute(e.target,"pm-onclick","onclick"),pmInterceptedClicks.push(e),e.preventDefault(),e.stopPropagation(),e.stopImmediatePropagation()}function pmReplayClicks(){window.removeEventListener("touchstart",pmTouchStartHandler,{passive:!0}),window.removeEventListener("mousedown",pmTouchStartHandler),pmInterceptedClicks.forEach(e=>{e.target.outerHTML===pmClickTarget&&e.target.dispatchEvent(new MouseEvent("click",{view:e.view,bubbles:!0,cancelable:!0}))})}function pmTouchStartHandler(e){"HTML"!==e.target.tagName&&(pmClickTarget||(pmClickTarget=e.target.outerHTML),window.addEventListener("touchend",pmTouchEndHandler),window.addEventListener("mouseup",pmTouchEndHandler),window.addEventListener("touchmove",pmTouchMoveHandler,{passive:!0}),window.addEventListener("mousemove",pmTouchMoveHandler),e.target.addEventListener("click",pmClickHandler),pmRenameDOMAttribute(e.target,"onclick","pm-onclick"))}function pmTouchMoveHandler(e){window.removeEventListener("touchend",pmTouchEndHandler),window.removeEventListener("mouseup",pmTouchEndHandler),window.removeEventListener("touchmove",pmTouchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",pmTouchMoveHandler),e.target.removeEventListener("click",pmClickHandler),pmRenameDOMAttribute(e.target,"pm-onclick","onclick")}function pmTouchEndHandler(e){window.removeEventListener("touchend",pmTouchEndHandler),window.removeEventListener("mouseup",pmTouchEndHandler),window.removeEventListener("touchmove",pmTouchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",pmTouchMoveHandler)}function pmRenameDOMAttribute(e,t,r){e.hasAttribute&&e.hasAttribute(t)&&(event.target.setAttribute(r,event.target.getAttribute(t)),event.target.removeAttribute(t))}window.addEventListener("pageshow",e=>{window.pmPersisted=e.persisted}),pmUserInteractions.forEach(function(e){window.addEventListener(e,pmTriggerDOMListener,{passive:!0})}),pmDelayClick&&(window.addEventListener("touchstart",pmTouchStartHandler,{passive:!0}),window.addEventListener("mousedown",pmTouchStartHandler)),document.addEventListener("visibilitychange",pmTriggerDOMListener);</script></body>
+</html>
