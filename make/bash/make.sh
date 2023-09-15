@@ -1,6 +1,6 @@
 if command -v g++ > /dev/null; then
     if test -s "src/"; then
-        echo "Nothing to do" #> /dev/null
+        echo "Nothing to do" > /dev/null
     elif test -s "bash/"; then
         cd ../
     elif test -f "make.sh"; then
